@@ -837,6 +837,17 @@
 	padding-right: 15px;
 	text-align: justify;
 }
+	.proposal-content .two {
+	padding-bottom: 20px;
+	color: #444;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 26px;
+	font-family: 'Open Sans', sans-serif;
+	padding-left: 15px;
+	padding-right: 15px;
+	text-align: justify;
+}
    /* gift section end */ 
 
    /* tricket section end */  
